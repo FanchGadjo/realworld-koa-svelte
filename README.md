@@ -9,6 +9,11 @@
 
 ### 🏠 [Homepage](https://github.com/FanchGadjo/realworld-koa-svelte#readme)
 
+## Description
+This repo is a merge of two [RealWorld example apps](https://github.com/gothinkster/realworld) repos :
+* frontend : [sveltejs/realworld](https://github.com/sveltejs/realworld)
+* backend : [koa-knex-realworld-example](https://github.com/gothinkster/koa-knex-realworld-example)
+
 ## Install
 
 ```sh
@@ -56,7 +61,7 @@ TODO
 
 👤 **Francois KERISIT**
 
-* Website: francoiskerisit.fr
+* Website: http://francoiskerisit.fr/
 * Twitter: [@FrancoisKerisit](https://twitter.com/FrancoisKerisit)
 * Github: [@FanchGadjo](https://github.com/FanchGadjo)
 * LinkedIn: [@fkerisit](https://linkedin.com/in/fkerisit)
