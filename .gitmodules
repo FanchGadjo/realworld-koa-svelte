@@ -1,3 +1,6 @@
 [submodule "front"]
 	path = front
 	url = https://github.com/sveltejs/realworld.git
+[submodule "back"]
+	path = back
+	url = https://github.com/gothinkster/koa-knex-realworld-example.git
