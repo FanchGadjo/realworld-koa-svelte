@@ -15,17 +15,42 @@
 npm install
 ```
 
-## Usage
+### Install frontend
 
 ```sh
-see each folder
+sudo apt install -y sqlite3
+cd front
+npm install
+```
+
+### Install backend
+```sh
+sudo apt install -y sqlite3
+```
+
+```sh
+cd back
+yarn run knex migrate:latest
+yarn run knex seed:run
+```
+
+## Usage
+
+### Usage frontend
+```sh
+cd front
+npm run dev
+```
+### Usage backend
+In another shell :
+```sh
+cd back
+npm start
 ```
 
 ## Run tests
 
-```sh
-npm run test
-```
+TODO
 
 ## Author
 
