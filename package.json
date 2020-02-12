@@ -1,0 +1,23 @@
+{
+  "name": "realworld-koa-svelte",
+  "version": "1.0.0",
+  "description": "Realworld app: fullstack svelte and koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FanchGadjo/realworld-koa-svelte.git"
+  },
+  "keywords": [
+    "koa",
+    "svelte"
+  ],
+  "author": "Francois KERISIT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FanchGadjo/realworld-koa-svelte/issues"
+  },
+  "homepage": "https://github.com/FanchGadjo/realworld-koa-svelte#readme"
+}
